@@ -9,6 +9,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAGAV-24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/RAGAV-24/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/RAGAV-24/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/RAGAV-24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RAGAV-24/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RAGAV-24/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/RAGAV-24/Leetcode/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
