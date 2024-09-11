@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/RAGAV-24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RAGAV-24/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/RAGAV-24/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RAGAV-24/Leetcode/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 | [3568-find-the-key-of-the-numbers](https://github.com/RAGAV-24/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Matrix
 |  |
@@ -68,4 +70,16 @@
 |  |
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RAGAV-24/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
