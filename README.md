@@ -7,6 +7,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RAGAV-24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAGAV-24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/RAGAV-24/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/RAGAV-24/Leetcode/tree/master/0048-rotate-image) |
@@ -31,6 +32,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RAGAV-24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAGAV-24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Math
 |  |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/RAGAV-24/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/RAGAV-24/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
