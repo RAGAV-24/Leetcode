@@ -17,7 +17,7 @@ public class Solution extends VersionControl {
             }
             else
             {
-                l=z+1;
+                l=m+1;
             }
 
         }
