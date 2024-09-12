@@ -10,6 +10,7 @@
 | [0011-container-with-most-water](https://github.com/RAGAV-24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAGAV-24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/RAGAV-24/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/RAGAV-24/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RAGAV-24/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/RAGAV-24/Leetcode/tree/master/0217-contains-duplicate) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/RAGAV-24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAGAV-24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -98,4 +101,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RAGAV-24/Leetcode/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
