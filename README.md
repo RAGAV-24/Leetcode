@@ -93,11 +93,13 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RAGAV-24/Leetcode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/RAGAV-24/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/RAGAV-24/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/RAGAV-24/Leetcode/tree/master/0792-binary-search) |
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/RAGAV-24/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/RAGAV-24/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Greedy
 |  |
