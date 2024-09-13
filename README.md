@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/RAGAV-24/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RAGAV-24/Leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RAGAV-24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/RAGAV-24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RAGAV-24/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/RAGAV-24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
