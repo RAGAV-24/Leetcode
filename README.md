@@ -20,6 +20,7 @@
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 | [0792-binary-search](https://github.com/RAGAV-24/Leetcode/tree/master/0792-binary-search) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RAGAV-24/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RAGAV-24/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RAGAV-24/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,4 +128,8 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RAGAV-24/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
