@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/RAGAV-24/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RAGAV-24/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RAGAV-24/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/RAGAV-24/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAGAV-24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/RAGAV-24/Leetcode/tree/master/0217-contains-duplicate) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/RAGAV-24/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RAGAV-24/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAGAV-24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 ## Recursion
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RAGAV-24/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/RAGAV-24/Leetcode/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
