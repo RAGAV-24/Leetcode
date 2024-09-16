@@ -141,4 +141,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RAGAV-24/Leetcode/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/RAGAV-24/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
