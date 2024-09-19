@@ -3,8 +3,6 @@ class Solution {
 
     String s1=stacj(s);
     String t2=stacj(t);
-        System.out.println(s1);
-    System.out.println(t2);
     if(s1.equals(t2))
     {
         return true;
