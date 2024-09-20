@@ -22,6 +22,7 @@
 | [0219-contains-duplicate-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RAGAV-24/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
+| [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/RAGAV-24/Leetcode/tree/master/0792-binary-search) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RAGAV-24/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Monotonic Stack
 |  |
@@ -166,5 +168,6 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
