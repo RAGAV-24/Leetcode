@@ -48,6 +48,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAGAV-24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RAGAV-24/Leetcode/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/RAGAV-24/Leetcode/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Math
 |  |
@@ -136,6 +137,7 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/RAGAV-24/Leetcode/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAGAV-24/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
