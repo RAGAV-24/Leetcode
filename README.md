@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/RAGAV-24/Leetcode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/RAGAV-24/Leetcode/tree/master/0397-integer-replacement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RAGAV-24/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RAGAV-24/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -102,6 +103,7 @@
 | [0053-maximum-subarray](https://github.com/RAGAV-24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RAGAV-24/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAGAV-24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0397-integer-replacement](https://github.com/RAGAV-24/Leetcode/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -129,6 +131,7 @@
 | [0011-container-with-most-water](https://github.com/RAGAV-24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/RAGAV-24/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/RAGAV-24/Leetcode/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/RAGAV-24/Leetcode/tree/master/0397-integer-replacement) |
 ## Stack
 |  |
 | ------- |
@@ -171,4 +174,8 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/RAGAV-24/Leetcode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
