@@ -75,6 +75,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/RAGAV-24/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/RAGAV-24/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -178,4 +179,8 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/RAGAV-24/Leetcode/tree/master/0397-integer-replacement) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/RAGAV-24/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
