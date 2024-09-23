@@ -59,6 +59,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/RAGAV-24/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RAGAV-24/Leetcode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/RAGAV-24/Leetcode/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 | [3568-find-the-key-of-the-numbers](https://github.com/RAGAV-24/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Matrix
@@ -175,6 +176,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RAGAV-24/Leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/RAGAV-24/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/RAGAV-24/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
