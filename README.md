@@ -62,6 +62,7 @@
 | [0066-plus-one](https://github.com/RAGAV-24/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/RAGAV-24/Leetcode/tree/master/0258-add-digits) |
 | [0398-random-pick-index](https://github.com/RAGAV-24/Leetcode/tree/master/0398-random-pick-index) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RAGAV-24/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 | [3568-find-the-key-of-the-numbers](https://github.com/RAGAV-24/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Matrix
@@ -99,6 +100,7 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/RAGAV-24/Leetcode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/RAGAV-24/Leetcode/tree/master/0397-integer-replacement) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/RAGAV-24/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/RAGAV-24/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RAGAV-24/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
