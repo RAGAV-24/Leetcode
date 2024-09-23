@@ -11,12 +11,13 @@ class Solution {
             if(arr1.contains(i))
             {
                 c=c+1;
+                if(c>=2)
+                {
+                    return true;
+                }
             }
         }
-        if(c>=2)
-        {
-            return true;
-        }
+        
         return false;
 
     }
