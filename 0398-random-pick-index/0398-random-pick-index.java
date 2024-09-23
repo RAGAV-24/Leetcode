@@ -7,20 +7,12 @@ class Solution {
     }
     
     public int pick(int target) {
-        int re=-1;
-        int c=0;
-        for(int i=0;i<nums.length;i++)
-        {
-            if(nums[i]==target)
-            {
-                c=c+1;
-                if(r.nextInt(c)==0)
-                {
-                    re=i;
-                }
+         while (true) {
+            int i = r.nextInt(nums.length);
+            if (nums[i] == target) {
+                return i;
             }
         }
-        return re;
     }
 }
 
