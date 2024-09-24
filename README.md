@@ -7,6 +7,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RAGAV-24/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RAGAV-24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RAGAV-24/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RAGAV-24/Leetcode/tree/master/0027-remove-element) |
@@ -31,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RAGAV-24/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/RAGAV-24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/RAGAV-24/Leetcode/tree/master/0389-find-the-difference) |
