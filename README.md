@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAGAV-24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/RAGAV-24/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/RAGAV-24/Leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/RAGAV-24/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/RAGAV-24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RAGAV-24/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/RAGAV-24/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RAGAV-24/Leetcode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/RAGAV-24/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RAGAV-24/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/RAGAV-24/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/RAGAV-24/Leetcode/tree/master/0273-integer-to-english-words) |
@@ -215,6 +217,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/RAGAV-24/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RAGAV-24/Leetcode/tree/master/0258-add-digits) |
 ## Reservoir Sampling
 |  |
@@ -224,4 +227,8 @@
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/RAGAV-24/Leetcode/tree/master/0398-random-pick-index) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RAGAV-24/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
