@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/RAGAV-24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RAGAV-24/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/RAGAV-24/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 | [0566-reshape-the-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
@@ -37,6 +38,7 @@
 | [0001-two-sum](https://github.com/RAGAV-24/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/RAGAV-24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/RAGAV-24/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RAGAV-24/Leetcode/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/RAGAV-24/Leetcode/tree/master/0398-random-pick-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAGAV-24/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -46,6 +48,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/RAGAV-24/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/RAGAV-24/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/RAGAV-24/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RAGAV-24/Leetcode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
@@ -67,6 +70,7 @@
 | [0048-rotate-image](https://github.com/RAGAV-24/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/RAGAV-24/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/RAGAV-24/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/RAGAV-24/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/RAGAV-24/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0371-sum-of-two-integers](https://github.com/RAGAV-24/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0398-random-pick-index](https://github.com/RAGAV-24/Leetcode/tree/master/0398-random-pick-index) |
@@ -108,6 +112,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RAGAV-24/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/RAGAV-24/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/RAGAV-24/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/RAGAV-24/Leetcode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/RAGAV-24/Leetcode/tree/master/0397-integer-replacement) |
@@ -138,6 +143,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/RAGAV-24/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/RAGAV-24/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RAGAV-24/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/RAGAV-24/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/RAGAV-24/Leetcode/tree/master/0792-binary-search) |
