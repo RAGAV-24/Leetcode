@@ -20,6 +20,7 @@
 | [0075-sort-colors](https://github.com/RAGAV-24/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAGAV-24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/RAGAV-24/Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/RAGAV-24/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/RAGAV-24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RAGAV-24/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -104,6 +105,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/RAGAV-24/Leetcode/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/RAGAV-24/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/RAGAV-24/Leetcode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/RAGAV-24/Leetcode/tree/master/0397-integer-replacement) |
