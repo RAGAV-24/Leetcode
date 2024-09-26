@@ -5,12 +5,11 @@ class Solution {
         {
             si=si+a;
         }
-        int to=0;
         for(char a:s.toCharArray())
         {
-            to=to+a;
+            si=si-a;
         }
-        System.out.println(si+" "+to);
-        return (char)(si-to);
+        
+        return (char)(si);
     }
 }
