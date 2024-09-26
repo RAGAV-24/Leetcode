@@ -29,6 +29,7 @@
 | [0219-contains-duplicate-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RAGAV-24/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/RAGAV-24/Leetcode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/RAGAV-24/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 | [0566-reshape-the-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RAGAV-24/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/RAGAV-24/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -248,4 +250,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RAGAV-24/Leetcode/tree/master/0204-count-primes) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/RAGAV-24/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
