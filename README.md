@@ -39,6 +39,7 @@
 | [0792-binary-search](https://github.com/RAGAV-24/Leetcode/tree/master/0792-binary-search) |
 | [1755-defuse-the-bomb](https://github.com/RAGAV-24/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2486-most-frequent-even-element](https://github.com/RAGAV-24/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RAGAV-24/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAGAV-24/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RAGAV-24/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2486-most-frequent-even-element](https://github.com/RAGAV-24/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAGAV-24/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RAGAV-24/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2486-most-frequent-even-element](https://github.com/RAGAV-24/Leetcode/tree/master/2486-most-frequent-even-element) |
 ## Brainteaser
 |  |
 | ------- |
