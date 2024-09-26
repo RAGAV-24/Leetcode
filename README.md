@@ -29,6 +29,7 @@
 | [0219-contains-duplicate-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/RAGAV-24/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/RAGAV-24/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 | [0566-reshape-the-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
@@ -43,6 +44,7 @@
 | [0217-contains-duplicate](https://github.com/RAGAV-24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/RAGAV-24/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/RAGAV-24/Leetcode/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/RAGAV-24/Leetcode/tree/master/0398-random-pick-index) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAGAV-24/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -54,6 +56,7 @@
 | [0075-sort-colors](https://github.com/RAGAV-24/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/RAGAV-24/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RAGAV-24/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/RAGAV-24/Leetcode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
@@ -70,6 +73,7 @@
 | [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/RAGAV-24/Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/RAGAV-24/Leetcode/tree/master/0344-reverse-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Math
 |  |
@@ -155,6 +159,7 @@
 | [0074-search-a-2d-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/RAGAV-24/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RAGAV-24/Leetcode/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/RAGAV-24/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/RAGAV-24/Leetcode/tree/master/0792-binary-search) |
 ## Interactive
