@@ -21,14 +21,9 @@ class Solution {
        for(char a:map.keySet())
        {
         
-         if(map.get(a)%2==1 && map.get(a)>2 &&r==0)
+         if(map.get(a)%2==1  &&r==0)
         {
             
-            c=c+map.get(a);
-            r=1;
-        }
-        else if(map.get(a)%2==1 && map.get(a)<2 &&r==0)
-        {
             c=c+map.get(a);
             r=1;
         }
