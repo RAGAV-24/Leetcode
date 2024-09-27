@@ -88,6 +88,7 @@
 | [0075-sort-colors](https://github.com/RAGAV-24/Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/RAGAV-24/Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0696-count-binary-substrings](https://github.com/RAGAV-24/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RAGAV-24/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -215,6 +216,7 @@
 | [0344-reverse-string](https://github.com/RAGAV-24/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/RAGAV-24/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RAGAV-24/Leetcode/tree/master/0409-longest-palindrome) |
+| [0696-count-binary-substrings](https://github.com/RAGAV-24/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAGAV-24/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1205-defanging-an-ip-address](https://github.com/RAGAV-24/Leetcode/tree/master/1205-defanging-an-ip-address) |
