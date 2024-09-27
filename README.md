@@ -103,6 +103,7 @@
 | [0398-random-pick-index](https://github.com/RAGAV-24/Leetcode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RAGAV-24/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
+| [1585-the-kth-factor-of-n](https://github.com/RAGAV-24/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [3568-find-the-key-of-the-numbers](https://github.com/RAGAV-24/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Matrix
 |  |
@@ -260,6 +261,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/RAGAV-24/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/RAGAV-24/Leetcode/tree/master/0258-add-digits) |
+| [1585-the-kth-factor-of-n](https://github.com/RAGAV-24/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Reservoir Sampling
 |  |
 | ------- |
