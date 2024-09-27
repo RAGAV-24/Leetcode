@@ -1,20 +1,20 @@
 class Solution {
     public List<String> findRepeatedDnaSequences(String s) {
-        HashSet<String> arr=new HashSet<>();
-        ArrayList<String> f=new ArrayList<>();
+        HashSet<String> set=new HashSet<>();
+        HashSet<String> arrl=new HashSet<>();
         for(int i=0;i<=s.length()-10;i++)
         {
-            String fr=s.substring(i,i+10);
-            if(!arr.contains(fr))
+            String str=s.substring(i,i+10);
+            if(!set.contains(str))
             {
-                arr.add(fr);
+                set.add(str);
             }
-            else if(!f.contains(fr))
+            else
             {
-                f.add(fr);
+             arrl.add(str);
             }
-
         }
-        return f;
+        ArrayList<String> arrli=new ArrayList<>(arrl);
+        return arrli;
     }
 }
