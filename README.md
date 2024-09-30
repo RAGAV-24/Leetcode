@@ -33,6 +33,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/RAGAV-24/Leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RAGAV-24/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/RAGAV-24/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 | [0566-reshape-the-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/RAGAV-24/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
