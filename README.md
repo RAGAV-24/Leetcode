@@ -39,6 +39,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/RAGAV-24/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/RAGAV-24/Leetcode/tree/master/0792-binary-search) |
+| [1256-rank-transform-of-an-array](https://github.com/RAGAV-24/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1755-defuse-the-bomb](https://github.com/RAGAV-24/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/RAGAV-24/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -60,6 +61,7 @@
 | [0409-longest-palindrome](https://github.com/RAGAV-24/Leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RAGAV-24/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAGAV-24/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/RAGAV-24/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RAGAV-24/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2486-most-frequent-even-element](https://github.com/RAGAV-24/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -72,6 +74,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/RAGAV-24/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/RAGAV-24/Leetcode/tree/master/0414-third-maximum-number) |
+| [1256-rank-transform-of-an-array](https://github.com/RAGAV-24/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/RAGAV-24/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RAGAV-24/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RAGAV-24/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
