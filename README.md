@@ -115,6 +115,7 @@
 | [0371-sum-of-two-integers](https://github.com/RAGAV-24/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0398-random-pick-index](https://github.com/RAGAV-24/Leetcode/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RAGAV-24/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/RAGAV-24/Leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 | [1585-the-kth-factor-of-n](https://github.com/RAGAV-24/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [3568-find-the-key-of-the-numbers](https://github.com/RAGAV-24/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
@@ -230,6 +231,7 @@
 | [0344-reverse-string](https://github.com/RAGAV-24/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/RAGAV-24/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RAGAV-24/Leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/RAGAV-24/Leetcode/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/RAGAV-24/Leetcode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/RAGAV-24/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -264,6 +266,7 @@
 | [0054-spiral-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/RAGAV-24/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/RAGAV-24/Leetcode/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
