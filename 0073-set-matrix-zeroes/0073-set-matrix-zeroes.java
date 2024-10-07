@@ -11,10 +11,10 @@ class Solution {
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
                 if (matrix[i][j] == 0) {
-                    for (int k = 0; k < cols; k++) {
+         for (int k = 0; k < cols; k++) {
                         mat[i][k] = 0;
                     }
-                    for (int k = 0; k < rows; k++) {
+  for (int k = 0; k < rows; k++) {
                         mat[k][j] = 0;
                     }
                 }
