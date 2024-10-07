@@ -217,6 +217,7 @@
 | [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/RAGAV-24/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RAGAV-24/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/RAGAV-24/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/RAGAV-24/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0566-reshape-the-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/RAGAV-24/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Memoization
 |  |
 | ------- |
