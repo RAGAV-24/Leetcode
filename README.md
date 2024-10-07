@@ -19,6 +19,7 @@
 | [0055-jump-game](https://github.com/RAGAV-24/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/RAGAV-24/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/RAGAV-24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RAGAV-24/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAGAV-24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RAGAV-24/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/RAGAV-24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0187-repeated-dna-sequences](https://github.com/RAGAV-24/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/RAGAV-24/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/RAGAV-24/Leetcode/tree/master/0217-contains-duplicate) |
@@ -125,6 +127,7 @@
 | [0048-rotate-image](https://github.com/RAGAV-24/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/RAGAV-24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Linked List
