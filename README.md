@@ -104,6 +104,7 @@
 | [0567-permutation-in-string](https://github.com/RAGAV-24/Leetcode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/RAGAV-24/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAGAV-24/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RAGAV-24/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
@@ -213,6 +214,7 @@
 | [0135-candy](https://github.com/RAGAV-24/Leetcode/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/RAGAV-24/Leetcode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/RAGAV-24/Leetcode/tree/master/0409-longest-palindrome) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAGAV-24/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RAGAV-24/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Stack
 |  |
@@ -221,6 +223,7 @@
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/RAGAV-24/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAGAV-24/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/RAGAV-24/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
@@ -245,6 +248,7 @@
 | [1205-defanging-an-ip-address](https://github.com/RAGAV-24/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RAGAV-24/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAGAV-24/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/RAGAV-24/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/RAGAV-24/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Counting
