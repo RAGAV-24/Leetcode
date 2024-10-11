@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/RAGAV-24/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RAGAV-24/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/RAGAV-24/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/RAGAV-24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0054-spiral-matrix) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RAGAV-24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RAGAV-24/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RAGAV-24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -210,6 +212,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RAGAV-24/Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/RAGAV-24/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/RAGAV-24/Leetcode/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/RAGAV-24/Leetcode/tree/master/0397-integer-replacement) |
