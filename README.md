@@ -138,6 +138,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/RAGAV-24/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [1484-linked-list-in-binary-tree](https://github.com/RAGAV-24/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Tree
 |  |
@@ -188,6 +189,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/RAGAV-24/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0273-integer-to-english-words](https://github.com/RAGAV-24/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
