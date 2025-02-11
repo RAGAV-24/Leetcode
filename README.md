@@ -233,6 +233,7 @@
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RAGAV-24/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/RAGAV-24/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/RAGAV-24/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAGAV-24/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/RAGAV-24/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -259,6 +260,7 @@
 | [1205-defanging-an-ip-address](https://github.com/RAGAV-24/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RAGAV-24/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/RAGAV-24/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAGAV-24/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/RAGAV-24/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/RAGAV-24/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -293,6 +295,7 @@
 | [0566-reshape-the-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/RAGAV-24/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/RAGAV-24/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Memoization
 |  |
