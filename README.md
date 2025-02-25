@@ -43,6 +43,7 @@
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/RAGAV-24/Leetcode/tree/master/0792-binary-search) |
 | [1256-rank-transform-of-an-array](https://github.com/RAGAV-24/Leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RAGAV-24/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1755-defuse-the-bomb](https://github.com/RAGAV-24/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/RAGAV-24/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -126,6 +127,7 @@
 | [0415-add-strings](https://github.com/RAGAV-24/Leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 | [1585-the-kth-factor-of-n](https://github.com/RAGAV-24/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RAGAV-24/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3568-find-the-key-of-the-numbers](https://github.com/RAGAV-24/Leetcode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Matrix
 |  |
@@ -163,6 +165,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/RAGAV-24/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/RAGAV-24/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RAGAV-24/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -187,6 +190,7 @@
 | [0397-integer-replacement](https://github.com/RAGAV-24/Leetcode/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/RAGAV-24/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RAGAV-24/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
