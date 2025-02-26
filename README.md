@@ -46,6 +46,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RAGAV-24/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1755-defuse-the-bomb](https://github.com/RAGAV-24/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RAGAV-24/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/RAGAV-24/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RAGAV-24/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2486-most-frequent-even-element](https://github.com/RAGAV-24/Leetcode/tree/master/2486-most-frequent-even-element) |
@@ -191,6 +192,7 @@
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/RAGAV-24/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RAGAV-24/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/RAGAV-24/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
