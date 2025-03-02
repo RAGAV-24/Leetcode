@@ -51,6 +51,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/RAGAV-24/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2486-most-frequent-even-element](https://github.com/RAGAV-24/Leetcode/tree/master/2486-most-frequent-even-element) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/RAGAV-24/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RAGAV-24/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RAGAV-24/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RAGAV-24/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2486-most-frequent-even-element](https://github.com/RAGAV-24/Leetcode/tree/master/2486-most-frequent-even-element) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RAGAV-24/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/RAGAV-24/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/RAGAV-24/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/RAGAV-24/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/RAGAV-24/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
