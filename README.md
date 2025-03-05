@@ -38,6 +38,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RAGAV-24/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/RAGAV-24/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/RAGAV-24/Leetcode/tree/master/0486-predict-the-winner) |
+| [0498-diagonal-traverse](https://github.com/RAGAV-24/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/RAGAV-24/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
@@ -142,6 +143,7 @@
 | [0059-spiral-matrix-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/RAGAV-24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/RAGAV-24/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Linked List
 |  |
@@ -304,6 +306,7 @@
 | [0059-spiral-matrix-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/RAGAV-24/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/RAGAV-24/Leetcode/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/RAGAV-24/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
