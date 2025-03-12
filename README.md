@@ -42,6 +42,7 @@
 | [0566-reshape-the-matrix](https://github.com/RAGAV-24/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/RAGAV-24/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/RAGAV-24/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/RAGAV-24/Leetcode/tree/master/0792-binary-search) |
 | [1256-rank-transform-of-an-array](https://github.com/RAGAV-24/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1310-watering-plants](https://github.com/RAGAV-24/Leetcode/tree/master/1310-watering-plants) |
@@ -247,6 +248,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/RAGAV-24/Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/RAGAV-24/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/RAGAV-24/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/RAGAV-24/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RAGAV-24/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/RAGAV-24/Leetcode/tree/master/0739-daily-temperatures) |
 ## String
 |  |
 | ------- |
