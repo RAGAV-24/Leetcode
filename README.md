@@ -69,6 +69,7 @@
 | [0229-majority-element-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RAGAV-24/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/RAGAV-24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RAGAV-24/Leetcode/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/RAGAV-24/Leetcode/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/RAGAV-24/Leetcode/tree/master/0409-longest-palindrome) |
@@ -271,6 +272,7 @@
 | [0205-isomorphic-strings](https://github.com/RAGAV-24/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/RAGAV-24/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/RAGAV-24/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/RAGAV-24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RAGAV-24/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/RAGAV-24/Leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/RAGAV-24/Leetcode/tree/master/0415-add-strings) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/RAGAV-24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/RAGAV-24/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/RAGAV-24/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/RAGAV-24/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -381,4 +384,8 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0090-subsets-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RAGAV-24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
