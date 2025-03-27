@@ -45,6 +45,7 @@
 | [0735-asteroid-collision](https://github.com/RAGAV-24/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/RAGAV-24/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/RAGAV-24/Leetcode/tree/master/0792-binary-search) |
+| [1127-last-stone-weight](https://github.com/RAGAV-24/Leetcode/tree/master/1127-last-stone-weight) |
 | [1256-rank-transform-of-an-array](https://github.com/RAGAV-24/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1310-watering-plants](https://github.com/RAGAV-24/Leetcode/tree/master/1310-watering-plants) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/RAGAV-24/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -377,6 +378,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1127-last-stone-weight](https://github.com/RAGAV-24/Leetcode/tree/master/1127-last-stone-weight) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/RAGAV-24/Leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
