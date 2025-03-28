@@ -161,10 +161,12 @@
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/RAGAV-24/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1484-linked-list-in-binary-tree](https://github.com/RAGAV-24/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/RAGAV-24/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/RAGAV-24/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/RAGAV-24/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -174,6 +176,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/RAGAV-24/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1484-linked-list-in-binary-tree](https://github.com/RAGAV-24/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Prefix Sum
 |  |
@@ -272,6 +275,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/RAGAV-24/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/RAGAV-24/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/RAGAV-24/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/RAGAV-24/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/RAGAV-24/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/RAGAV-24/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/RAGAV-24/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -388,6 +392,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/RAGAV-24/Leetcode/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/RAGAV-24/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Queue
 |  |
 | ------- |
